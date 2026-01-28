@@ -248,7 +248,11 @@ lib/
 
 ## ⭐ Acknowledgment
 
-Special thanks to all team members for their collaboration and effort in building this project.
+ Thanks to all team members for their collaboration and effort in building this project.
+
+* Special thanks to Youssef Salah For his Support 
+
+  GitHub: [https://github.com/YousefSalah1](https://github.com/YousefSalah1)
 
 If you find this project useful, please consider giving it a **star ⭐**.
 
