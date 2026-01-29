@@ -62,9 +62,9 @@ This project was developed collaboratively by:
 
 ### 🧳 Trip Features
 
-| Trip List                  | Trip Details                  | Extra Trip                  | Cancel Trip                  |
-| -------------------------- | ----------------------------- | --------------------------- | ---------------------------- |
-| ![](screens/trip/list.png) | ![](screens/trip/details.png) | ![](screens/trip/extra.png) | ![](screens/trip/cancel.png) |
+| Trip List                   | Extra Trip                  | Cancel Trip                  |
+| --------------------------  | --------------------------- | ---------------------------- |
+| ![](screens/trip/list.png)  | ![](screens/trip/extra.png) | ![](screens/trip/cancel.png) |
 
 ### 👤 Profile
 
@@ -250,7 +250,7 @@ lib/
 
  Thanks to all team members for their collaboration and effort in building this project.
 
-* Special thanks to Youssef Salah For his Support 
+* Special thank to Youssef Salah For his Support 
 
   GitHub: [https://github.com/YousefSalah1](https://github.com/YousefSalah1)
 
