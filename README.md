@@ -56,144 +56,155 @@ This project was developed collaboratively by:
 
 ---
 
+Got it 👍
+**MAX = 2 images per row**, clean titles, and **FULL corrected code** again.
+Below is a **final, consistent, mobile-safe version** you can paste directly.
+
+---
+
 ## 📸 Screenshots
 
-### Splash screen
+---
 
+### 🚀 Splash Screen
 <table>
 <tr>
-
-<td align="center"><b> Splash</b><br><br><img src="images/second splash.png" width="250"/></td>
-
+<td align="center">
+  <b>Splash Screen</b><br><br>
+  <img src="images/second splash.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
+</td>
+  
 </tr>
 </table>
 
 ---
 
-###  Authentication
-
+### 🔐 Authentication Screens
 <table>
+
 <tr>
 <td align="center">
   <b>Login</b><br><br>
-  <img src="images/login.png" height="480" style="max-width:100%; object-fit:contain;" />
+  <img src="images/login.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
 </td>
 
 <td align="center">
   <b>Register</b><br><br>
-  <img src="images/register.png" height="480" style="max-width:100%; object-fit:contain;" />
+  <img src="images/register.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
 </td>
+</tr>
 
+<tr>
 <td align="center">
   <b>Send Code</b><br><br>
-  <img src="images/send code.png" height="480" style="max-width:100%; object-fit:contain;" />
+  <img src="images/send code.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
 </td>
 
 <td align="center">
   <b>Verify Code</b><br><br>
-  <img src="images/verify code.png" height="480" style="max-width:100%; object-fit:contain;" />
+  <img src="images/verify code.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
 </td>
+</tr>
 
+<tr>
 <td align="center">
   <b>Reset Password</b><br><br>
-  <img src="images/reset password.png" height="480" style="max-width:100%; object-fit:contain;" />
+  <img src="images/reset password.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
 </td>
-
 </tr>
+
 </table>
 
 ---
-###  Location Access
+
+### 📍 Location Permission
 <table>
 <tr>
-
 <td align="center">
-  <b>Get Location</b><br><br>
-  <img 
-    src="images/get location.png"
-    height="480"
-    style="max-width:100%; object-fit:contain;"
-  />
+  <b>Get Location Access</b><br><br>
+  <img src="images/get location.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
 </td>
-
 </tr>
 </table>
 
 ---
 
-###  Trip Features
-
+### 🚗 Trip Management
 <table>
+
 <tr>
 <td align="center">
   <b>Trips</b><br><br>
-  <img 
-    src="images/trips.png"
-    height="480"
-    style="max-width:100%; object-fit:contain;"
-  />
+  <img src="images/trips.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
 </td>
 
 <td align="center">
   <b>Extra Trip</b><br><br>
-  <img 
-    src="images/extra trip.png"
-    height="480"
-    style="max-width:100%; object-fit:contain;"
-  />
+  <img src="images/extra trip.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
 </td>
+</tr>
 
+<tr>
 <td align="center">
   <b>Pending Trip</b><br><br>
-  <img 
-    src="images/pending trip.png"
-    height="480"
-    style="max-width:100%; object-fit:contain;"
-  />
+  <img src="images/pending trip.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
 </td>
 
 <td align="center">
   <b>Cancel Trip</b><br><br>
-  <img 
-    src="images/cancel trip.png"
-    height="480"
-    style="max-width:100%; object-fit:contain;"
-  />
+  <img src="images/cancel trip.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
 </td>
-
 </tr>
+
 </table>
-
-
 
 ---
 
-###  Profile
-
+### 👤 Profile & Settings
 <table>
 <tr>
 <td align="center">
   <b>Profile</b><br><br>
-  <img 
-    src="images/profile.png"
-    height="480"
-    style="max-width:100%; object-fit:contain;"
-  />
+  <img src="images/profile.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
 </td>
 
 <td align="center">
   <b>Edit Profile</b><br><br>
-  <img 
-    src="images/edit profile.png"
-    height="480"
-    style="max-width:100%; object-fit:contain;"
-  />
+  <img src="images/edit profile.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
 </td>
-
 </tr>
 </table>
 
----
+
+
+----
+<br>
 
 ## 🔐 Authentication Features
 
