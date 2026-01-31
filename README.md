@@ -62,8 +62,8 @@ This project was developed collaboratively by:
 
 <table>
 <tr>
-<td align="center"><b>First Splash</b><br><br><img src="images/splash.png" width="250"/></td>
-<td align="center"><b>Second Splash</b><br><br><img src="images/second splash.png" width="250"/></td>
+
+<td align="center"><b> Splash</b><br><br><img src="images/second splash.png" width="250"/></td>
 
 </tr>
 </table>
@@ -74,11 +74,11 @@ This project was developed collaboratively by:
 
 <table>
 <tr>
-<td align="center"><b>Login</b><br><br><img src="images/login.png" width="250"/></td>
+<td align="center"><b>Login</b><br><br><img src="images/login.png" width="260"/></td>
 <td align="center"><b>Register</b><br><br><img src="images/register.png" width="250"/></td>
-<td align="center"><b>Send Code</b><br><br><img src="images/send code.png" width="250"/></td>
-<td align="center"><b>Verify Code</b><br><br><img src="images/verify code.png" width="250"/></td>
-<td align="center"><br><b>Reset Password</b><br><br><img src="images/reset password.png" width="250"/></td>
+<td align="center"><b>Send Code</b><br><br><img src="images/send code.png" width="260"/></td>
+<td align="center"><b>Verify Code</b><br><br><img src="images/verify code.png" width="260"/></td>
+<td align="center"><b>Reset Password</b><br><br><img src="images/reset password.png" width="240"/></td>
   
 </tr>
 </table>
