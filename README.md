@@ -54,17 +54,12 @@ This project was developed collaboratively by:
 * 🕒 Trip History
 * 💾 Local Caching & Offline Optimization
 
----
 
-Got it 👍
-**MAX = 2 images per row**, clean titles, and **FULL corrected code** again.
-Below is a **final, consistent, mobile-safe version** you can paste directly.
 
 ---
 
 ## 📸 Screenshots
 
----
 
 ### 🚀 Splash Screen
 <table>
