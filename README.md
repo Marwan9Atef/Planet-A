@@ -64,13 +64,19 @@ This project was developed collaboratively by:
 ### 🚀 Splash Screen
 <table>
 <tr>
+    <td align="center">
+  <b>Splash Screen</b><br><br>
+  <img src="images/splash.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
+</td>
 <td align="center">
   <b>Splash Screen</b><br><br>
   <img src="images/second splash.png"
        height="480"
        style="max-width:100%; object-fit:contain;" />
 </td>
-  
+
 </tr>
 </table>
 
