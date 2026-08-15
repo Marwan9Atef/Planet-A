@@ -146,7 +146,6 @@ This project was developed collaboratively by:
 
 ### 🚗 Trip Management
 <table>
-
 <tr>
 <td align="center">
   <b>Trips</b><br><br>
@@ -154,46 +153,50 @@ This project was developed collaboratively by:
        height="480"
        style="max-width:100%; object-fit:contain;" />
 </td>
-
+<td align="center">
+  <b>Trip Details</b><br><br>
+  <img src="images/tripdetails.png"
+       height="480"
+       style="max-width:100%; object-fit:contain;" />
+</td>
+</tr>
+<tr>
 <td align="center">
   <b>Extra Trip</b><br><br>
   <img src="images/extra trip.png"
        height="480"
        style="max-width:100%; object-fit:contain;" />
 </td>
-</tr>
-
-<tr>
 <td align="center">
   <b>Pending Trip</b><br><br>
   <img src="images/pending trip.png"
        height="480"
        style="max-width:100%; object-fit:contain;" />
 </td>
-
+</tr>
+<tr>
 <td align="center">
   <b>Cancel Trip</b><br><br>
   <img src="images/cancel trip.png"
        height="480"
        style="max-width:100%; object-fit:contain;" />
 </td>
-</tr>
-<tr>
 <td align="center">
   <b>Complete Trip Details</b><br><br>
   <img src="images/completed.png"
        height="480"
        style="max-width:100%; object-fit:contain;" />
 </td>
-
+</tr>
+<tr>
 <td align="center">
   <b>Report</b><br><br>
   <img src="images/report.png"
        height="480"
        style="max-width:100%; object-fit:contain;" />
 </td>
+<td></td>
 </tr>
-
 </table>
 
 ---
